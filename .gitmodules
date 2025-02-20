@@ -1,0 +1,3 @@
+[submodule "mdc_100_series/mdc_100_series/lib"]
+	path = mdc_100_series/mdc_100_series/lib
+	url = https://github.com/mbabaziii/ShrineApp.git
